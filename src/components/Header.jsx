@@ -6,7 +6,7 @@ const Header = () => {
     <>
       <div className="topbar text-center py-2">
         <div className="container">
-          <small>Free shipping on all orders over $50</small>
+          <small>Free shipping on all orders over 500 Rs</small>
         </div>
       </div>
 
