@@ -5,7 +5,7 @@ const categories = [
     id: 1,
     title: "Men",
     image:
-      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=80",
+      "https://tse3.mm.bing.net/th/id/OIP.DISYvYKBuiWLG4rDK90rAQHaND?rs=1&pid=ImgDetMain&o=7&rm=3",
   },
   {
     id: 2,
