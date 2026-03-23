@@ -22,7 +22,7 @@ const ProductDetail = () => {
             <div className="product-detail-content">
               <p className="section-subtitle">Product ID: {id}</p>
               <h1>Classic Beige Coat</h1>
-              <h3 className="detail-price">$89.00</h3>
+              <h3 className="detail-price">890 Rs</h3>
               <p>
                 A refined wardrobe essential crafted for timeless elegance and
                 all-day comfort. This page is only for UI preview.
